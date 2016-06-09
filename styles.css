@@ -91,7 +91,7 @@ hr.q-divider{
 
 .nav-menu {
   visibility: visible;
-  opacity: 1;
+  opacity: 0;
   background: beige;
   padding: 15px;
   text-align: center;
